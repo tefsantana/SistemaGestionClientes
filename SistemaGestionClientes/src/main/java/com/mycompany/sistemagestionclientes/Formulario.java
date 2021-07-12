@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Seba
+ * @author Estefanía Santana
  */
 public class Formulario extends javax.swing.JFrame {
 
