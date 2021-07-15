@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.sistemagestionclientes;
+package com.mycompany.sistemagestion;
+
+import com.mycompany.sistemagestion.forms.Formulario;
 
 /**
  *
@@ -11,4 +13,8 @@ package com.mycompany.sistemagestionclientes;
  */
 public class Main {
     
+    public static void main(String[] args) {
+        Formulario ventana = new Formulario();
+        ventana.show();
+    }
 }
